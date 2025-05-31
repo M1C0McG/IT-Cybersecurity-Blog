@@ -1,5 +1,5 @@
 title: My IT & Cybersecurity Blog
 description: Labs, walkthroughs, certifications, and projects on my learning journey
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
   - jekyll-remote-theme
